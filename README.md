@@ -4,10 +4,4 @@ To use them:
 
 ```
 git clone --recursive https://github.com/jasuarez/vim.d ~/.vim
-```
-
-From `vim`, run:
-
-```
-:PlugInstall
-```
+vim -E  -c PlugInstall -c q -c q
