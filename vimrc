@@ -9,6 +9,7 @@ Plug 'majutsushi/tagbar'
 Plug 'tpope/vim-fugitive'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'jceb/vim-orgmode'
+Plug 'tpope/vim-speeddating'
 call plug#end()
 
 " Vim Airline
