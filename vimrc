@@ -8,6 +8,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'majutsushi/tagbar'
 Plug 'tpope/vim-fugitive'
 Plug 'editorconfig/editorconfig-vim'
+Plug 'jceb/vim-orgmode'
 call plug#end()
 
 " Vim Airline
